@@ -1,0 +1,37 @@
+.looping{
+    height: 100vh;
+}
+.looping h1{
+    font-size: 2rem;
+    color: #fff;
+    margin: 1rem auto;
+}
+.loop_content{
+    position: relative;
+    display: flex;
+    width: 100%;
+    gap: 1rem;
+}
+.loop_content .content_left,
+.loop_content .content_center,
+.loop_content .content_rights,
+.loop_content .content_righted{
+   width: 500px;
+   height: auto;
+   text-align: center;
+   background: #fff;
+   padding: 1rem;
+   border-radius: .2rem;
+   text-align: justify;
+}
+.loop_content .content_left h1,
+.loop_content .content_center h1,
+.loop_content .content_rights h1,
+.loop_content .content_righted h1{
+    font-weight: 700;
+    text-transform: capitalize;
+    font-size: 1.3rem;
+    color: #333;
+    font-family: sans-serif;
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,21 @@
+.navigation_two{
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 200px;
+    height: auto;
+}
+.navigation_flex{
+    margin-top: 2rem;
+    position: relative;
+    display: flex;
+    padding: 1rem;
+    line-height: 3rem;
+    flex-direction: column;
+}
+.close_bar{
+    float: right;
+    padding: 1rem;
+}

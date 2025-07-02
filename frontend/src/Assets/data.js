@@ -1,0 +1,62 @@
+export const data = [
+  { name: "sieba damucay", age: 24, gender: "Male", birth_dateL: "05-02-2001" },
+  {
+    name: "brenelyn moheng",
+    age: 24,
+    gender: "female",
+    birth_dateL: "05-02-2001",
+  },
+  { name: "rosette renaliza", age: 23, gender: "Male", birth_dateL: "05-02-2002" },
+  {
+    name: "christian cayong",
+    age: 22,
+    gender: "Male",
+    birth_dateL: "05-02-2003",
+  },
+  {
+    name: "kristine vista",
+    age: 21,
+    gender: "female",
+    birth_dateL: "05-02-2003",
+  },
+  { name: "jack liwag", age: 21, gender: "Male", birth_dateL: "05-02-2004" },
+  {
+    name: "jessica mae guillermo",
+    age: 21,
+    gender: "female",
+    birth_dateL: "05-02-2004",
+  },
+  {
+    name: "heidi bascos",
+    age: 23,
+    gender: "female",
+    birth_dateL: "05-02-2003",
+  },
+  {
+    name: "jemalyn mateo",
+    age: 28,
+    gender: "female",
+    birth_dateL: "05-02-2004",
+  },
+  {
+    name: "mhelgrace mateo",
+    age: 25,
+    gender: "female",
+    birth_dateL: "05-02-2008",
+  },
+  { name: "fabro jansev", age: 22, gender: "Male", birth_dateL: "05-02-2003" },
+  {
+    name: "lester mallare",
+    age: 23,
+    gender: "Male",
+    birth_dateL: "05-02-2004",
+  },
+  {
+    name: "iris dinamling",
+    age: 23,
+    gender: "female",
+    birth_dateL: "05-02-2004",
+  },
+  { name: "reynald kyle", age: 21, gender: "Male", birth_dateL: "05-02-2001" },
+  { name: "kenneth john", age: 24, gender: "Male", birth_dateL: "05-02-2001" },
+];

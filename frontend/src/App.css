@@ -1,0 +1,23 @@
+.app__container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+      background: linear-gradient(to right, #c800ff,#555);
+}
+
+.navigation_layout{
+  background-color: #000000;
+  height: 80px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  overflow: hidden;
+  z-index: 111;
+}
+.main_content{
+  position: relative;
+  height: 100%;
+  padding: 5rem 0;
+  width: 85%;
+}
